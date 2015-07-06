@@ -1,2 +1,2 @@
 # AutoWall
-Android App for creating themes of wallpapers
+Android App for creating wallpapers themes
